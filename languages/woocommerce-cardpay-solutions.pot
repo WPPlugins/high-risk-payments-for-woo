@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: High Risk Payment Gateway for WooCommerce 1.0.0\n"
+"POT-Creation-Date: 2015-11-17 17:08-0800\n"
+"PO-Revision-Date: 2015-11-17 17:08-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-cardpay-solutions-api.php:245
+msgid "cURL Error: "
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-credit-cards.php:71
+#: includes/class-wc-cardpay-solutions-credit-cards.php:97
+#: includes/class-wc-cardpay-solutions-gateway.php:352
+#, php-format
+msgid "Token %s &ndash; %s"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-credit-cards.php:71
+#: includes/class-wc-cardpay-solutions-credit-cards.php:97
+#: includes/class-wc-cardpay-solutions-gateway.php:352
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:80
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:141
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:236
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:364
+msgid "Payment was declined - please try another card."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:203
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:332
+msgid "Customer not found"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:219
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:348
+#: includes/class-wc-cardpay-solutions-gateway.php:242
+#, php-format
+msgid ""
+"Cardpay Solutions payment %s for %s. Transaction ID: %s.\n"
+"\n"
+" <strong>AVS Response:</strong> %s.\n"
+"\n"
+" <strong>CVV2 Response:</strong> %s."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:234
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:362
+msgid "Cardpay Solutions payment declined"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway-addons.php:252
+#, php-format
+msgid "Cardpay Solutions Transaction Failed (%s)"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:58
+msgid ""
+"TEST MODE ENABLED. Use test card number 4111111111111111 with any 3-digit "
+"CVC and a future expiration date."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:75
+#, php-format
+msgid ""
+"Cardpay Solutions error: The Username is required. <a href=\"%s\">Click here "
+"to update your Cardpay Solutions settings.</a>"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:81
+#, php-format
+msgid ""
+"Cardpay Solutions error: The Password is required. <a href=\"%s\">Click here "
+"to update your Cardpay Solutions settings.</a>"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:87
+#, php-format
+msgid ""
+"Cardpay Solutions is enabled, but the <a href=\"%s\">force SSL option</a> is "
+"disabled; your checkout may not be secure! Please enable SSL and ensure your "
+"server has a valid SSL certificate."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:118
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:119
+msgid "Enable Cardpay Solutions"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:125
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:127
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:128
+msgid "Credit Card"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:132
+msgid "Use Sandbox"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:133
+msgid "Enable sandbox mode - live payments will not be taken if enabled."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:139
+msgid "Username"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:141
+msgid ""
+"Contact sales at (866) 588-0503 if you have not received your Username. Not "
+"required for Sandbox mode."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:145
+msgid "Password"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:147
+msgid ""
+"Contact sales at (866) 588-0503 if you have not received your Password. Not "
+"required for Sandbox mode."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:151
+msgid "Transaction Type"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:161
+msgid "Auto Capture"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:162
+msgid ""
+"Automatically attempt to capture transactions that are processed as "
+"Authorize Only when order is marked complete."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:168
+msgid "Allow Stored Cards"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:169
+msgid ""
+"Allow logged in customers to save credit card profiles to use for future "
+"purchases"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:175
+msgid "Accepted Cards"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:179
+msgid "Select the card types to accept."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:265
+msgid "Payment error: "
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:287
+#, php-format
+msgid "Cardpay Solutinos refund completed for %s. Refund ID: %s"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:290
+msgid "Refund error: "
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:322
+#, php-format
+msgid "Cardpay Solutions auto capture completed for %s. Capture ID: %s"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:330
+msgid ""
+"Cardpay Solutions auto capture failed. Log into your gateway to manually "
+"process the capture."
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:390
+msgid "Card Number"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:394
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:398
+msgid "Card Code"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:409
+msgid "Save card for future use?"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:420
+msgid "Add new card"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:424
+msgid "Payment Information"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:473
+msgid "Exact match, 9-character numeric ZIP"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:474
+#: includes/class-wc-cardpay-solutions-gateway.php:475
+#: includes/class-wc-cardpay-solutions-gateway.php:476
+msgid "Exact match, 5-character numeric ZIP"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:477
+#: includes/class-wc-cardpay-solutions-gateway.php:478
+msgid "Address match only"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:479
+msgid "9-character numeric ZIP match only"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:480
+#: includes/class-wc-cardpay-solutions-gateway.php:481
+#: includes/class-wc-cardpay-solutions-gateway.php:482
+msgid "5-character ZIP match only"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:483
+#: includes/class-wc-cardpay-solutions-gateway.php:484
+msgid "No address or ZIP match only"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:485
+msgid "Address unavailable"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:486
+#: includes/class-wc-cardpay-solutions-gateway.php:487
+msgid "Non-U.S. issuer does not participate"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:488
+msgid "Issuer system unavailable"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:489
+msgid "Not a mail/phone order"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:490
+msgid "Service not supported"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:491
+msgid "AVS not available"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:509
+msgid "CVV2/CVC2 match"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:510
+msgid "CVV2/CVC2 no match"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:511
+msgid "Not processed"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:512
+msgid "Merchant has indicated that CVV2/CVC2 is not present on card"
+msgstr ""
+
+#: includes/class-wc-cardpay-solutions-gateway.php:513
+msgid "Issuer is not certified and/or has not provided Visa encryption keys"
+msgstr ""
+
+#: templates/credit-cards-table.php:4 templates/credit-cards.php:7
+msgid "Card Details"
+msgstr ""
+
+#: templates/credit-cards-table.php:5 templates/credit-cards.php:8
+msgid "Expires"
+msgstr ""
+
+#: templates/credit-cards-table.php:27 templates/credit-cards.php:30
+#, php-format
+msgid "%s ending in %s %s"
+msgstr ""
+
+#: templates/credit-cards-table.php:29 templates/credit-cards.php:32
+#, php-format
+msgid "%s/%s"
+msgstr ""
+
+#: templates/credit-cards-table.php:31 templates/credit-cards.php:34
+#, php-format
+msgid "Edit %s ending in %s"
+msgstr ""
+
+#: templates/credit-cards-table.php:31 templates/credit-cards.php:34
+#, php-format
+msgid "%s / %s"
+msgstr ""
+
+#: templates/credit-cards-table.php:31 templates/credit-cards.php:34
+msgid "Edit"
+msgstr ""
+
+#: templates/credit-cards-table.php:32 templates/credit-cards.php:35
+msgid "Delete"
+msgstr ""
+
+#: templates/credit-cards.php:1
+msgid "My Credit Cards"
+msgstr ""
+
+#: templates/credit-cards.php:2
+msgid "Your request has been successfully processed."
+msgstr ""
+
+#: templates/credit-cards.php:3
+msgid "There was an error processing your request."
+msgstr ""
+
+#: templates/credit-cards.php:42
+msgid "Add New Card"
+msgstr ""
+
+#: templates/credit-cards.php:44
+msgid "Add Credit Card"
+msgstr ""
+
+#: templates/credit-cards.php:52
+msgid "Card Number "
+msgstr ""
+
+#: templates/credit-cards.php:56
+msgid "Expiry (MM/YY) "
+msgstr ""
+
+#: templates/credit-cards.php:60
+msgid "Card Code "
+msgstr ""
+
+#: templates/credit-cards.php:64
+msgid "Make Default? "
+msgstr ""
+
+#: templates/credit-cards.php:69
+msgid "Cancel "
+msgstr ""
+
+#: woocommerce-cardpay-solutions.php:65
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-cardpay-solutions.php:133
+msgid "Credit Cards"
+msgstr ""
